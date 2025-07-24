@@ -29,7 +29,7 @@ class _GroceryListState extends State<GroceryList> {
   void _loadItems() async {
     final url = Uri.https(
       'shopping-app-78259-default-rtdb.firebaseio.com',
-      'shopping-list.json',
+      'shopping-app.json',
     );
 
     try {
