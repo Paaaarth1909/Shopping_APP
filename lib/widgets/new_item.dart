@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 
 import 'package:shopping_app/data/categories.dart';
-import 'package:shopping_list/models/category.dart';
+import 'package:shopping_app/models/category.dart';
 import 'package:shopping_list/models/grocery_item.dart';
 
 class NewItem extends StatefulWidget {
